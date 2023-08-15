@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1642047260 source:c:\users\user\desktop\107070035\cilent.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/types.h>
+	<winsock2.h>
+	<time.h>
+	<signal.h>
+	<Windows.h>
+
